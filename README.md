@@ -15,5 +15,5 @@ This Tools is only education promote.I am not responsibility for any problem or 
 > pip2 install requests bs4
 > git clone https://github.com/The-Madman-Reborn/Crack-world
 > cd Crack-world
-> python2 Cracker.indirect
+> python2 cracker.indirect
 ```
