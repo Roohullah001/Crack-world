@@ -1,5 +1,10 @@
 <p align="center"><a href="https://github.com/The-Madman-Reborn"><img src="https://user-images.githubusercontent.com/52023076/115988149-37bbb980-a56d-11eb-9eb4-4feb51c09345.png" alt="Bt">
   
+  ## Note
+  
+ <p align="center"><a href="https://github.com/The-Madman-Reborn"><img src="Copy Paste do not make you codder" alt="Bt">
+  
+  
 ## Crack-world
 ```
 This Tools is only education promote.I am not responsibility for any problem or issue.
