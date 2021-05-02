@@ -13,6 +13,8 @@ This Tools is only education promote.I am not responsibility for any problem or 
 > pip2 install requests
 > pip2 install mechanize
 > pip2 install requests bs4
+> pip2 install tqdm
+> pip2 install requests tqdm
 > rm -rf Crack-world
 > git clone https://github.com/The-Madman-Reborn/Crack-world
 > cd Crack-world
